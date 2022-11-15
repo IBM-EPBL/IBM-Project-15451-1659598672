@@ -2,4 +2,5 @@
 Intelligent Vehicle Damage Assessment &amp; Cost Estimator for Insurance Companies
 
 
-https://lh5.googleusercontent.com/AfclnIsMI7IRsavANkRzk_bnADyIUrqMcAE4JE8QqdVGYT4mTBgeNRmcTt0wNdXbf9Elsjmz-yUkdh4oN5Gm6qs9GvHy_B3AjVRgWgF_Xy6LMXHF8yviMulyAE-bFQ
+
+<img width="612" alt="acci" src="https://user-images.githubusercontent.com/113674034/201834212-786b9172-303c-4f17-9d83-ee70f89c3537.png">
