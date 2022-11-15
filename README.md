@@ -13,7 +13,7 @@ Team Member 2 : ROSHINI P
 
 Team Member 3 : VEERA KARTHIKADEVI K
 
-<img width="612" alt="acci" src="https://user-images.githubusercontent.com/113674034/201834212-786b9172-303c-4f17-9d83-ee70f89c3537.png">
+
 
 Description:
 
@@ -29,3 +29,7 @@ The aim of this project is to build a VGG16 model that can detect the area of da
 is that it can be used by insurance companies for faster processing of claims if users can upload pics and the model can assess damage
 ( be it dent scratch from and estimates the cost of damage. This model can also be used by lenders if they are underwriting a car loan, 
 especially for a used car.
+
+
+<img width="612" alt="acci" src="https://user-images.githubusercontent.com/113674034/201834212-786b9172-303c-4f17-9d83-ee70f89c3537.png">
+
